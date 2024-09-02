@@ -39,7 +39,14 @@ Upload Architecture Diagram(s)
 Upload User Journey(s)
 
 Code Repository
-https://github.com/JoseHerminioCollas/remote_rwt
 
+[https://github.com/JoseHerminioCollas/remote_rwt](https://github.com/JoseHerminioCollas/remote_rwt)
 Relevant Links
+
+https://hedera.com/users/diamond-standard
+
+https://www.venly.io/
+
+https://hedera.com/use-cases/real-world-asset-tokenization
+
 https://hedera.com/users/diamond-standard
