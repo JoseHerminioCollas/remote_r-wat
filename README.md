@@ -10,6 +10,9 @@ Remote locations are the source of many assets however the conditions there may 
 Remote locations provide distinct challenges such as no power source or no internet connection.
 The Andean region offers a variety of objects that can benefit from tokenization such as minerals and foods. 
 
+Perhaps a distinct coin to facilitate transactions across borders would be helpful.
+How are crypto coins used to facilitate international transactions?
+TODO: Understand import export laws
 
 Jose Collas is well suited to understanding the region because of his Peruvian citizenship as well as his long time involvement in the region. The object may have to travel long distances to its final owner. This path can be documented with a block chain entry. Jose has years of development work and looks forward to continuing his career using Hedera in a working position.
 
@@ -25,18 +28,51 @@ Any RWT service
 
 The launch date for the project is April first, 2025
 
-plane ticket
+plane tickets
+travel expenses
 living expenses
-equipment
-funds to purchase items
+equipment : 
+mobile, 
+power system for remote regions, 
+batteries, 
+solar recharge, 
+carry cases
+funds to purchase items to be minted
 
-Demo or Presentation
-Upload Architecture Diagram(s)
-Upload User Journey(s)
+### Demo
+
+[youtube video]
+
+### Architecture Diagram
+
+Mobile device records initial verification and records conditions.
+Characteristics such as weight, size, latitude, longitude, temperature, photographs of the object
+This record is recorded locally(?) or is taken to a base station that is connected to the internet.
+
+At the source location the item will be minted.
+Local block chain running on Mobile device.
+Base station laptop with internet connection.
+
+Web Page:
+user account, a user can see a listing of tokens, visualization can be used to show geographical, temporal information.
+Facilitate transactions
+Give option to list item in online shops.
+Conversion of crypto coin to currencies, 
+
+
+### User Journey
+
+User has a set of equipment that enables minting in remote locations.
+Upon discovery or harvest the item is minted.
+Records are made of its condition and recorded as part of the token.
+
+
 
 Code Repository
 
 [https://github.com/JoseHerminioCollas/remote_rwt](https://github.com/JoseHerminioCollas/remote_rwt)
+
+
 Relevant Links
 
 https://hedera.com/users/diamond-standard
