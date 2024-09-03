@@ -1,4 +1,4 @@
-# Remote Real World Asset Token
+# Remote Real-World Asset Token
 
 ## remote_rwa_token
 
@@ -23,11 +23,14 @@ The target leger system used will be Hedera. Hedera has the potential to be, in 
 Some of the key characteristics of Hedera that set it up for the long term are its efficiency and organization set up.
 Hedera that set it up for the long term are its efficient hashgraph consensus.
 The Hedera foundation is likely to be the same to years to come. It is unlikely that Hedera would be purchased by another company then changed. I have experience with Hedera as a result of participating in several Hedera hackathons.
-
-### The competitors 
+REGULATORY COMPLIANCE LOW AND PREDICTABLE FEES TRUSTED, TRANSPARENT DATA
+stability of Hedera foundation
 
 
 The launch date for the project is April first, 2025
+
+### The competitors 
+
 
 plane tickets
 travel expenses
@@ -84,3 +87,25 @@ https://www.venly.io/
 https://hedera.com/use-cases/real-world-asset-tokenization
 
 https://hedera.com/users/diamond-standard
+
+https://www.fireblocks.com/
+
+https://www.add3.io
+
+https://4irelabs.com
+
+https://www.kaleido.io
+
+https://www.castoredc.com
+
+https://medium.com/coinmonks/how-to-create-your-own-tokenization-of-real-world-assets-in-2024-5bf69a465ac0
+
+https://www.solulab.com/real-world-asset-tokenization-guide/
+
+https://enjin.io/blog/crypto-rwa-tokenization-of-assets-explained
+
+https://li.fi/knowledge-hub/why-are-we-tokenizing-real-world-assets/
+
+https://tokeny.com/erc3643-the-token-standard-for-real-world-assets-rwas
+
+https://digishares.io/
