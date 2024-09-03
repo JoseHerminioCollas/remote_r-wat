@@ -1,4 +1,6 @@
-# Remote Real World Token
+# Remote Real World Asset Token
+
+## remote_rwa_token
 
 #### remote_rwt is hosted at the URL: 
 
@@ -22,8 +24,7 @@ Some of the key characteristics of Hedera that set it up for the long term are i
 Hedera that set it up for the long term are its efficient hashgraph consensus.
 The Hedera foundation is likely to be the same to years to come. It is unlikely that Hedera would be purchased by another company then changed. I have experience with Hedera as a result of participating in several Hedera hackathons.
 
-The competitors 
-Any RWT service
+### The competitors 
 
 
 The launch date for the project is April first, 2025
@@ -32,7 +33,8 @@ plane tickets
 travel expenses
 living expenses
 equipment : 
-mobile, 
+mobile devices for minting in field, 
+base station laptop, internet connection service
 power system for remote regions, 
 batteries, 
 solar recharge, 
@@ -53,12 +55,14 @@ At the source location the item will be minted.
 Local block chain running on Mobile device.
 Base station laptop with internet connection.
 
-Web Page:
-user account, a user can see a listing of tokens, visualization can be used to show geographical, temporal information.
+A web page will be provide where a user of the product can log in to see information about the token or to make transactions.
+
+Facilitate knowledge about minted item.
+a user can see a listing of tokens, visualization can be used to show geographical, temporal information.
+
 Facilitate transactions
 Give option to list item in online shops.
 Conversion of crypto coin to currencies, 
-
 
 ### User Journey
 
@@ -66,14 +70,12 @@ User has a set of equipment that enables minting in remote locations.
 Upon discovery or harvest the item is minted.
 Records are made of its condition and recorded as part of the token.
 
-
-
-Code Repository
+### Code Repository
 
 [https://github.com/JoseHerminioCollas/remote_rwt](https://github.com/JoseHerminioCollas/remote_rwt)
 
 
-Relevant Links
+### Relevant Links
 
 https://hedera.com/users/diamond-standard
 
