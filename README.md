@@ -1,12 +1,12 @@
-# Remote Real-World Asset Token
+<h1> Remote Real-World Asset Token</h1>
 
 ## remote_rwa_token
 
-#### remote_rwt is hosted at the URL: 
+#### Remote Real-World Asset Token is hosted at the URL: 
 
-[https://joseherminiocollas.github.io/remote_rwt/](https://joseherminiocollas.github.io/remote_rwt/)
+[https://joseherminiocollas.github.io/remote_rwa_token/](https://joseherminiocollas.github.io/remote_rwa_token/)
 
-The objective of RemoteRWT is to establish processes and systems for real-world tokenization in remote locations of the world, specifically the mountain region of the Andes.
+The objective of Remote RWAT is to establish processes and systems for real-world tokenization in remote locations of the world, specifically the mountain region of the Andes.
 
 Remote locations are the source of many assets however the conditions there may not be suited to minting tokens. Minting in remote locations is not a specific objective of many solutions that exist today.
 Remote locations provide distinct challenges such as no power source or no internet connection.
@@ -109,3 +109,23 @@ https://li.fi/knowledge-hub/why-are-we-tokenizing-real-world-assets/
 https://tokeny.com/erc3643-the-token-standard-for-real-world-assets-rwas
 
 https://digishares.io/
+
+https://chain.link
+
+https://lenderkit.com/blog/top-5-real-estate-tokenization-software/
+
+https://pixelplex.io/blog/
+
+https://assets.kpmg.com/content/dam/kpmg/pdf/2016/03/peru-mining-country-guide.pdf
+
+https://www.lexology.com/library/detail.aspx?g=161334bb-4087-4d76-ab72-6d6999a91e11
+
+https://www.dentons.com/en/insights/newsletters/2022/january/17/dentons-global-mining-guide/dentons-global-mining-guide-2022/peru
+
+https://mineria.minem.gob.pe/en/institucional/mining-policy/
+
+https://prcp.com.pe/wp-content/uploads/2022/02/Mining-2019.pdf
+
+https://www.pwc.pe/es/publicaciones/assets/PwC-Doing-Business-in-Peru-Mining.pdf
+
+https://www.ey.com/es_pe/mining-metals/mining-metals-investment-guide
