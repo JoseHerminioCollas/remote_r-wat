@@ -1,38 +1,34 @@
-# remote_RWT
+# Remote Real World Token
 
-## Website
+#### remote_rwt is hosted at the URL: 
+
+[https://joseherminiocollas.github.io/remote_rwt/](https://joseherminiocollas.github.io/remote_rwt/)
 
 The objective of RemoteRWT is to establish processes and systems for real-world tokenization in remote locations of the world, specifically the mountain region of the Andes.
 
-RWT for remote locations is not an objective of many solutions.
-Remote locations are the source of many assets. 
-Verification in remote locations is essential for certain types of assets.
-Remote locations provide distinct challenges
-No power source
-No internet connection
+Remote locations are the source of many assets however the conditions there may not be suited to minting tokens. Minting in remote locations is not a specific objective of many solutions that exist today.
+Remote locations provide distinct challenges such as no power source or no internet connection.
+The Andean region offers a variety of objects that can benefit from tokenization such as minerals and foods. 
 
-Why H? 
-Low cost, speed of transaction
-I have experience with H. from hackathons
 
-How many users 
-The product does not exist yet, there are no users.
+Jose Collas is well suited to understanding the region because of his Peruvian citizenship as well as his long time involvement in the region. The object may have to travel long distances to its final owner. This path can be documented with a block chain entry. Jose has years of development work and looks forward to continuing his career using Hedera in a working position.
+
+The target leger system used will be Hedera. Hedera has the potential to be, in the future, the established leger solution for the problems trying to be solved here.
+
+Some of the key characteristics of Hedera that set it up for the long term are its efficiency and organization set up.
+Hedera that set it up for the long term are its efficient hashgraph consensus.
+The Hedera foundation is likely to be the same to years to come. It is unlikely that Hedera would be purchased by another company then changed. I have experience with Hedera as a result of participating in several Hedera hackathons.
 
 The competitors 
 Any RWT service
 
-Team Size 
- 1
-Team Experience 
-X has decades of development experience
 
-Have you already started the project?*
-Yes
+The launch date for the project is April first, 2025
 
-Launch Date
-February first, 2025
-
-What will funds be allocated towards  
+plane ticket
+living expenses
+equipment
+funds to purchase items
 
 Demo or Presentation
 Upload Architecture Diagram(s)
