@@ -6,7 +6,7 @@
 
 [https://joseherminiocollas.github.io/remote_rwa_token/](https://joseherminiocollas.github.io/remote_rwa_token/)
 
-The objective of Remote RWAT is to establish processes and systems for real-world tokenization in remote locations of the world, specifically the mountain region of the Andes.
+The objective of Remote Real-World Asset Token is to establish processes and systems for real-world tokenization in remote locations of the world, specifically the mountain region of the Andes.
 
 Remote locations are the source of many assets however the conditions there may not be suited to minting tokens. Minting real-world assets in remote locations is not a specific objective of many solutions that exist today. Remote locations provide distinct challenges such as no power or no internet. The Andean region offers a variety of products that can benefit from tokenization such as minerals and foods.
 
@@ -32,10 +32,12 @@ The launch date for the project is April first, 2025
 
 ### The competitors 
 
-The service described here is essentially an RWAT platform. 
+The service described here is essentially a Real-World Asset Token platform. 
 The distinct quality of this platform is that it is designed for the tokenization of products in remote locations.
 
-Currently there are several platforms that offer R-WA tokenization. 
+Currently there are several platforms that offer Real-World Asset tokenization. 
+These platforms are general purpose platforms such as 
+<a href="https://www.venly.io">venly.io</a>.
 These platforms are often specialized to specific industries.
 There is not platform that specializes in the tokenization of products in remote locations.
 
