@@ -10,7 +10,11 @@ The objective of Remote RWAT is to establish processes and systems for real-worl
 
 Remote locations are the source of many assets however the conditions there may not be suited to minting tokens. Minting real-world assets in remote locations is not a specific objective of many solutions that exist today. Remote locations provide distinct challenges such as no power or no internet. The Andean region offers a variety of products that can benefit from tokenization such as minerals and foods.
 
-The object may have to travel long distances to its final owner. This path can be documented with a block chain entry. 
+In the case of foods, the route to the customer may not have suited to its preservation. 
+Each step along the journey can be recorded to ensure the integrity of the product throughout its journey.
+
+In the case of minerals, Peruvian law requires the verification of the lawful origin of the mineral. 
+The minting of minerals at their provenance should establish this verification. Information such as mining rights can be recorded in the minting process. 
 
 Perhaps, it will be useful to mint a distinct coin to facilitate transactions across borders.
 
