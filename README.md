@@ -35,11 +35,18 @@ The launch date for the project is April first, 2025
 The service described here is essentially a Real-World Asset Token platform. 
 The distinct quality of this platform is that it is designed for the tokenization of products in remote locations.
 
-Currently there are several platforms that offer Real-World Asset tokenization. 
+Currently there are several <em>platforms</em> that offer Real-World Asset tokenization. 
 These platforms are general purpose platforms such as 
-<a href="https://www.venly.io">venly.io</a>.
+<a href="https://www.venly.io"> venly.io </a>
+<a href="https://www.fireblocks.com/"> fireblocks.com </a>.
+These platforms can be utilized to mint products in remote locations, however these general purpose platforms do not consider the distinct characteristics of products in remote locations.
+There is no platform that specializes in the tokenization of products in remote locations.
+
 These platforms are often specialized to specific industries.
-There is not platform that specializes in the tokenization of products in remote locations.
+
+The goal is to develop process. A general purpose platform may work as part of an ideal system.
+
+
 
 ### Demo
 
