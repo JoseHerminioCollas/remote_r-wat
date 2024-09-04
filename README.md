@@ -22,12 +22,11 @@ Jose Collas is well suited to understanding the region because of his Peruvian c
 
 The target leger system used will be Hedera. Hedera has the potential to be, in the future, the established leger solution for the problems trying to be solved here.
 
-Some of the key characteristics of Hedera that set it up for the long term are its efficiency and organization set up.
-Hedera that set it up for the long term are its efficient hashgraph consensus.
+Some of the key characteristics of Hedera that set it up for the long term are its efficiency and organization set up. Hedera that set it up for the long term are its efficient hashgraph consensus.
 The Hedera foundation is likely to be the same to years to come. It is unlikely that Hedera would be purchased by another company then changed. I have experience with Hedera as a result of participating in several Hedera hackathons.
+
 REGULATORY COMPLIANCE LOW AND PREDICTABLE FEES TRUSTED, TRANSPARENT DATA
 stability of Hedera foundation
-
 
 The launch date for the project is April first, 2025
 
@@ -65,9 +64,14 @@ Conversion of crypto coin to currencies,
 
 ### User Journey
 
-User has a set of equipment that enables minting in remote locations.
-Upon discovery or harvest the item is minted.
-Records are made of its condition and recorded as part of the token.
+Fish farmers would like to offer fish from a farm in a remote location for sale. 
+This user will use the system developed under the name Remote R-WAT.
+The farmers take mobile devices to the fish farm. Upon harvest of the fish, photographs and records are made. Records are made of its condition and recorded as part of the token.
+
+An artisanal miner has secured mining rights in a remote part of the Andes.
+Upon discovery of the mineral, the miner records the discovery of the mineral the instance it is discovered. Mining products are sourced in some of the most remote locations of the world.
+Perhaps the mineral will be sold in its natural state. In this case a photograph of the mineral as it was discovered in the earth along with latitudes and longitudes can provide the natural mineral value.
+The customer can observe the product compared to its state when it was discovered. The customer can be assured that the mineral is in fact in the state it was discovered in the earth. Any deformation of the natural minerals' state should be observable.
 
 ### Code Repository
 
