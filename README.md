@@ -1,6 +1,6 @@
 <h1> Remote Real-World Asset Token</h1>
 
-## remote_rwa_token
+## remote_rwa_token remote_real-world_asset
 
 #### Remote Real-World Asset Token is hosted at the URL: 
 
@@ -32,14 +32,15 @@ The launch date for the project is April first, 2025
 
 ### The competitors 
 
-The service described here is essentially a Real-World Asset Token platform. 
-The distinct quality of this platform is that it is designed for the tokenization of products in remote locations.
+remote_real-world_asset is essentially a Real-World Asset Token application. 
+The distinct quality of this application is its focus on the tokenization of products in remote locations.
 
-Currently there are several <em>platforms</em> that offer Real-World Asset tokenization. 
+Currently there are several <em>platforms</em> that offer the basis for a Real-World Asset tokenization application. 
 These platforms are general purpose platforms such as 
 <a href="https://www.venly.io"> venly.io </a>
 <a href="https://www.fireblocks.com/"> fireblocks.com </a>.
-These platforms can be utilized to mint products in remote locations, however these general purpose platforms do not consider the distinct characteristics of products in remote locations.
+These platforms can be utilized to mint products in remote locations, however these platforms do not consider the distinct characteristics of products in remote locations.
+
 There is no platform that specializes in the tokenization of products in remote locations.
 
 These platforms are often specialized to specific industries.
@@ -76,6 +77,10 @@ Conversion of crypto coin to currencies,
 Fish farmers would like to offer fish from a farm in a remote location for sale. 
 This user will use the system developed under the name Remote R-WAT.
 The farmers take mobile devices to the fish farm. Upon harvest of the fish, photographs and records are made. Records are made of its condition and recorded as part of the token.
+Farmer can view the recorded product on an online dashboard application.
+Potential customers view the newly minted product on a dashboard application.
+There they will see the photographs and specifications recorded with the minting.
+Potential customers can view the journey taken with visualizations of maps and lists of records made at each step of the journey.
 
 An artisanal miner has secured mining rights in a remote part of the Andes.
 Upon discovery of the mineral, the miner records the discovery of the mineral the instance it is discovered. Mining products are sourced in some of the most remote locations of the world.
