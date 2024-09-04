@@ -8,15 +8,13 @@
 
 The objective of Remote RWAT is to establish processes and systems for real-world tokenization in remote locations of the world, specifically the mountain region of the Andes.
 
-Remote locations are the source of many assets however the conditions there may not be suited to minting tokens. Minting in remote locations is not a specific objective of many solutions that exist today.
-Remote locations provide distinct challenges such as no power source or no internet connection.
-The Andean region offers a variety of objects that can benefit from tokenization such as minerals and foods. 
+Remote locations are the source of many assets however the conditions there may not be suited to minting tokens. Minting real-world assets in remote locations is not a specific objective of many solutions that exist today. Remote locations provide distinct challenges such as no power or no internet. The Andean region offers a variety of products that can benefit from tokenization such as minerals and foods.
 
-Perhaps a distinct coin to facilitate transactions across borders would be helpful.
-How are crypto coins used to facilitate international transactions?
-TODO: Understand import export laws
+The object may have to travel long distances to its final owner. This path can be documented with a block chain entry. 
 
-Jose Collas is well suited to understanding the region because of his Peruvian citizenship as well as his long time involvement in the region. The object may have to travel long distances to its final owner. This path can be documented with a block chain entry. Jose has years of development work and looks forward to continuing his career using Hedera in a working position.
+Perhaps, it will be useful to mint a distinct coin to facilitate transactions across borders.
+
+Jose Collas is well suited to understanding the region because of his Peruvian citizenship as well as his long time involvement in the region. Jose has years of development work and looks forward to continuing his career using Hedera in a working position.
 
 The target leger system used will be Hedera. Hedera has the potential to be, in the future, the established leger solution for the problems trying to be solved here.
 
@@ -31,18 +29,12 @@ The launch date for the project is April first, 2025
 
 ### The competitors 
 
+The service described here is essentially an RWAT platform. 
+The distinct quality of this platform is that it is designed for the tokenization of products in remote locations.
 
-plane tickets
-travel expenses
-living expenses
-equipment : 
-mobile devices for minting in field, 
-base station laptop, internet connection service
-power system for remote regions, 
-batteries, 
-solar recharge, 
-carry cases
-funds to purchase items to be minted
+Currently there are several platforms that offer R-WA tokenization. 
+These platforms are often specialized to specific industries.
+There is not platform that specializes in the tokenization of products in remote locations.
 
 ### Demo
 
@@ -75,8 +67,7 @@ Records are made of its condition and recorded as part of the token.
 
 ### Code Repository
 
-[https://github.com/JoseHerminioCollas/remote_rwt](https://github.com/JoseHerminioCollas/remote_rwt)
-
+<a href="https://github.com/JoseHerminioCollas/remote_rwa_token">https://github.com/JoseHerminioCollas/remote_rwa_token</a>
 
 ### Relevant Links
 
