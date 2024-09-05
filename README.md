@@ -1,16 +1,14 @@
 <h1> Remote Real-World Asset Token</h1>
 
-## remote_r-wa_token
-
 ## remote_r-wat
 
 #### Remote Real-World Asset Token is hosted at the URL:
 
-[https://joseherminiocollas.github.io/remote_rwa_token/](https://joseherminiocollas.github.io/remote_rwa_token/)
+[https://joseherminiocollas.github.io/remote_r-wat/](https://joseherminiocollas.github.io/remote_r-wat/)
 
 #### Code Repository
 
-<a href="https://github.com/JoseHerminioCollas/remote_rwa_token">https://github.com/JoseHerminioCollas/remote_rwa_token</a>
+<a href="https://github.com/JoseHerminioCollas/remote_r-wat">https://github.com/JoseHerminioCollas/remote_r-wat</a>
 
 The objective of Remote Real-World Asset Token is to establish processes and systems for real-world tokenization in remote locations of the world, specifically the mountain region of the Andes.
 
@@ -45,7 +43,7 @@ Currently there are several <em>platforms</em> that offer the basis for a Real-W
 These platforms are general purpose platforms such as
 <a href="https://www.venly.io"> venly.io </a> and
 <a href="https://www.fireblocks.com/"> fireblocks.com </a>.
-These platforms can be utilized to mint products in remote locations, however these platforms do not consider the distinct characteristics of products in remote locations. The real estate sector is targeted in specialized applications such as, <a href="https://tokend.io">tokend.io</a>, however, there is no consideration of real estate in remote locations.
+These platforms can be utilized to mint products in remote locations, however these platforms do not consider the distinct characteristics of products in remote locations. The real estate sector is targeted in specialized applications such as, <a href="https://tokend.io">tokend.io</a>, however, there is no consideration of real estate in remote locations. Services, such as Amazons' Track and Trace provide insights into a supply chain that use blockchain. Track and trace services may be used along with  XXX and not necessarily compete with XXX. 
 
 In the current research <em>no</em> project that specializes in the tokenization of products in remote locations, has been found.
 
@@ -59,23 +57,13 @@ In the current research <em>no</em> project that specializes in the tokenization
 
 Mobile device records initial verification and records conditions.
 Characteristics such as weight, size, latitude, longitude, temperature, photographs of the object
-This record is recorded locally(?) or is taken to a base station that is connected to the internet.
+The minting is done upon discovery or harvest or is prepared to be taken to a base station that is connected to the internet. The product may require specialized packaging with sensors that will record information onto the blockchain.
 
-At the source location the item will be minted.
-Local block chain running on Mobile device.
-Base station laptop with internet connection.
+#### Track and Trace Dashboard Application
 
-#### Supply Chain
+Product information will be availble online.
 
-Product is put into the supply chain.
-
-#### Dashboard Application
-
-A web page will be provide where a user of the product can log in to see information about the token or to make transactions.
-
-Facilitate knowledge about minted item.
-a user can see a listing of tokens, visualization can be used to show geographical, temporal information.
-Facilitate transactions
+The user will be able to view information about the product in the supply chain.
 
 ### User Journey
 
@@ -83,15 +71,17 @@ Facilitate transactions
 
 Upon harvest of the fish, photographs and records are made. Records are made of its condition and recorded as part of the token.
 Farmer can view the recorded product on an online dashboard application.
-Potential customers view the newly minted product on a dashboard application.
+
+Customers view the newly minted product on a dashboard application.
 There they will see the photographs and specifications recorded with the minting.
-Potential customers can view the journey taken with visualizations of maps and lists of records made at each step of the journey.
+Customers can view the journey taken with visualizations of maps and lists of records made at each step of the journey.
 
-#### An artisanal miner has secured mining rights in a remote part of the Andes.
+#### Artisanal Miner.
 
-Upon discovery of the mineral, the miner records the discovery of the mineral the instance it is discovered. Mining products are sourced in some of the most remote locations of the world.
-Perhaps the mineral will be sold in its natural state. In this case a photograph of the mineral as it was discovered in the earth along with latitudes and longitudes can provide the natural mineral value.
-The customer can observe the product compared to its state when it was discovered. The customer can be assured that the mineral is in fact in the state it was discovered in the earth. Any deformation of the natural minerals' state should be observable.
+An artisanal miner has secured mining rights in a remote part of the Andes.
+Upon discovery of the mineral, the miner records the discovery.
+
+The mineral discovered will be sold in its natural state. A photograph of the mineral as it was discovered in the earth along with latitudes and longitudes provide information about this natural state. The customer observes the product compared to its discovered state, and observes any deformation of the minerals' natural state.
 
 <address>
 <a rel="author" href="https://github.com/JoseHerminioCollas">
