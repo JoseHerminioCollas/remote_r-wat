@@ -1,6 +1,6 @@
 <h1> Remote Real-World Asset Token</h1>
 
-## remote_rwa_token remote_real-world_asset
+## remote_r-wa_token
 
 #### Remote Real-World Asset Token is hosted at the URL: 
 
@@ -30,24 +30,18 @@ stability of Hedera foundation
 
 The launch date for the project is April first, 2025
 
-### The competitors 
+### The Competitors 
 
-remote_real-world_asset is essentially a Real-World Asset Token application. 
+[RWAT] is a system and software application to create Real-World Asset Tokens. 
 The distinct quality of this application is its focus on the tokenization of products in remote locations.
 
 Currently there are several <em>platforms</em> that offer the basis for a Real-World Asset tokenization application. 
 These platforms are general purpose platforms such as 
-<a href="https://www.venly.io"> venly.io </a>
+<a href="https://www.venly.io"> venly.io </a> and 
 <a href="https://www.fireblocks.com/"> fireblocks.com </a>.
-These platforms can be utilized to mint products in remote locations, however these platforms do not consider the distinct characteristics of products in remote locations.
+These platforms can be utilized to mint products in remote locations, however these platforms do not consider the distinct characteristics of products in remote locations. The real estate sector is targeted in specialized applications such as, <a href="https://tokend.io">tokend.io</a>, however, there is no consideration of real estate in remote locations.
 
-There is no platform that specializes in the tokenization of products in remote locations.
-
-These platforms are often specialized to specific industries.
-
-The goal is to develop process. A general purpose platform may work as part of an ideal system.
-
-
+In the current research <em>no</em> project that specializes in the tokenization of products in remote locations, has been found.
 
 ### Demo
 
