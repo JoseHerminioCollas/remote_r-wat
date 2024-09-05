@@ -56,8 +56,7 @@ In the current research <em>no</em> project that specializes in the tokenization
 #### Provenance
 
 Mobile device records initial verification and records conditions.
-Characteristics such as weight, size, latitude, longitude, temperature, photographs of the object
-The minting is done upon discovery or harvest or is prepared to be taken to a base station that is connected to the internet. The product may require specialized packaging with sensors that will record information onto the blockchain.
+Characteristics such as weight, size, latitude, longitude, temperature, photographs of the object. The minting is done upon discovery or harvest or is prepared to be taken to a base station that is connected to the internet. The product may require specialized packaging with sensors that will record information onto the blockchain.
 
 #### Track and Trace Dashboard Application
 
@@ -65,23 +64,24 @@ Product information will be availble online.
 
 The user will be able to view information about the product in the supply chain.
 
-### User Journey
+### User Journeys
 
-#### Fish farmers in remote parts of the Andes will put their fish onto the market.
+#### Fish farmers in the Andes.
 
 Upon harvest of the fish, photographs and records are made. Records are made of its condition and recorded as part of the token.
 Farmer can view the recorded product on an online dashboard application.
+The farmer places the fish into a container designed to securely transport the fish to a location where it can be refrigerated. In the container are sensors that will record the state of the container and its contents.
 
-Customers view the newly minted product on a dashboard application.
-There they will see the photographs and specifications recorded with the minting.
-Customers can view the journey taken with visualizations of maps and lists of records made at each step of the journey.
+Customers view photographs and specifications recorded with the minting of the product on a dashboard application. Customers can view the journey taken with visualizations of maps and lists of records made at each step of the journey.
 
 #### Artisanal Miner.
 
 An artisanal miner has secured mining rights in a remote part of the Andes.
-Upon discovery of the mineral, the miner records the discovery.
+Upon discovery of the mineral, the miner records the discovery. Specialized equipment enables the minting in this area without power or internet.
 
-The mineral discovered will be sold in its natural state. A photograph of the mineral as it was discovered in the earth along with latitudes and longitudes provide information about this natural state. The customer observes the product compared to its discovered state, and observes any deformation of the minerals' natural state.
+The mineral discovered will be sold in its natural state. A photograph of the mineral as it was discovered in the earth along with latitudes and longitudes provide information about this natural state. 
+
+The customer observes the product compared to its discovered state, and observes any deformation of the minerals' natural state.
 
 <address>
 <a rel="author" href="https://github.com/JoseHerminioCollas">
