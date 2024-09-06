@@ -46,6 +46,7 @@ In the current research, <em>no</em> project that specializes in the tokenizatio
 [youtube video]
 
 ### Architecture Diagram
+<img src="media/architecture_diagram.svg" style="max-width:80%; " />
 
 #### Provenance
 
