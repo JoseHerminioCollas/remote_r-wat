@@ -41,8 +41,6 @@ These platforms can be utilized to mint products in remote locations however, th
 
 In the current research, <em>no</em> project that specializes in the tokenization of products in remote locations, has been found.
 
-YOUTUBE_VIDEO_ID_HERE
-
 ### Demo
 [ The demo video can be found on Youtube at the address: https://youtu.be/ViRt9xbDaVA](https://youtu.be/ViRt9xbDaVA)
 
